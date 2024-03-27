@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34707.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sandbox.PolymorphicSerialization", "Sandbox.PolymorphicSerialization\Sandbox.PolymorphicSerialization.csproj", "{7010069F-3F8E-414C-9157-61E1780B4040}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sandbox.PolymorphicSerialization.Tests", "Sandbox.PolymorphicSerialization.Tests\Sandbox.PolymorphicSerialization.Tests.csproj", "{9197159C-0D02-42C0-8221-2D0B946CCEC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7010069F-3F8E-414C-9157-61E1780B4040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7010069F-3F8E-414C-9157-61E1780B4040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7010069F-3F8E-414C-9157-61E1780B4040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7010069F-3F8E-414C-9157-61E1780B4040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9197159C-0D02-42C0-8221-2D0B946CCEC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9197159C-0D02-42C0-8221-2D0B946CCEC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9197159C-0D02-42C0-8221-2D0B946CCEC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9197159C-0D02-42C0-8221-2D0B946CCEC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B34F2E23-DC7E-4980-8896-9F6101CA68FA}
+	EndGlobalSection
+EndGlobal
